@@ -1,12 +1,12 @@
 {
-  "name": "angular4-carousel",
+  "name": "zdravel-carousel",
   "description": "Configurable angular2/4 carousel",
   "keywords": ["Angular2", "Angular4", "carousel", "image slider"],
   "repository": {
     "type" : "git",
     "url" : "https://github.com/bonjurmrfirst/angular4-carousel"
   },
-  "version": "3.1.3",
+  "version": "3.1.3.1",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
