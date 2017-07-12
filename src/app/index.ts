@@ -27,7 +27,7 @@ import { CarouselHandlerDirective } from './directives';
   ],
   imports: [
     CommonModule,
-    BrowserModule
+   // BrowserModule
   ],
   exports: [CarouselComponent],
   providers: [CarouselService, WindowWidthService],
